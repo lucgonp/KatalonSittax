@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Fevereiro</name>
+   <tag></tag>
+   <elementGuidId>76e88582-330b-4f98-8a3f-d2c87b113956</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Janeiro'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.ng-star-inserted.is-highlighted > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Fevereiro&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0e6df7f3-7bfd-493e-a4b9-772b8513d14d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fevereiro</value>
+      <webElementGuid>a430afee-70e1-4729-a144-426d564b685f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;dx-device-desktop dx-device-generic ng-tns-0-0&quot;]/bs-datepicker-container[@class=&quot;bottom ng-tns-c3649951909-3 ng-star-inserted&quot;]/div[@class=&quot;bs-datepicker ng-tns-c3649951909-3 theme-angle ng-star-inserted&quot;]/div[@class=&quot;bs-datepicker-container ng-tns-c3649951909-3 ng-trigger ng-trigger-datepickerAnimation&quot;]/div[@class=&quot;bs-calendar-container ng-tns-c3649951909-3&quot;]/div[@class=&quot;bs-media-container ng-tns-c3649951909-3 ng-star-inserted&quot;]/bs-month-calendar-view[@class=&quot;ng-tns-c3649951909-3 ng-star-inserted&quot;]/bs-calendar-layout[1]/div[@class=&quot;bs-datepicker-body&quot;]/table[@class=&quot;months&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;ng-star-inserted is-highlighted&quot;]/span[1]</value>
+      <webElementGuid>76ad5bcc-835d-447d-8127-c7d7502860f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Janeiro'])[1]/following::span[1]</value>
+      <webElementGuid>18ce295a-6ac1-4888-b99f-459e9ae1c8fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='›'])[1]/following::span[2]</value>
+      <webElementGuid>047f9384-4d5a-4c8d-b6e1-ee751a5b8636</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Março'])[1]/preceding::span[1]</value>
+      <webElementGuid>2b9c5a31-14e0-4ce6-8f63-b8e587270b52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Abril'])[1]/preceding::span[2]</value>
+      <webElementGuid>a8bbda1f-d7be-4fde-a250-4264d68fe34c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Fevereiro']/parent::*</value>
+      <webElementGuid>0af560f1-aacd-4589-9ec5-3558dbac955b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/span</value>
+      <webElementGuid>dfdb1c7e-3970-41e3-b78c-eaecbe7f161a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Fevereiro' or . = 'Fevereiro')]</value>
+      <webElementGuid>a14816a6-f274-4dcd-b36d-c166984fece4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
