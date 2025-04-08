@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Relatrio de conferncia</name>
+   <tag></tag>
+   <elementGuidId>3dcbbea4-a5e8-4ad5-a9ad-367a1fea10a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='dropdown-dropdown']/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.dropdown-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Relatório de conferência&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ac255915-1d78-41ef-9415-f61f3dcb5283</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>c1e6ccc6-58dd-4b8d-988c-d1a90d91f2f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Relatório de conferência</value>
+      <webElementGuid>e1771dcf-6f9b-4001-b107-027dd6001d0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dropdown-dropdown&quot;)/li[@class=&quot;ng-star-inserted&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>53f2925b-e1da-4260-8ec0-c6f362533eaa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='dropdown-dropdown']/li/a</value>
+      <webElementGuid>64455c7d-829d-45bd-a91e-e17889260d04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Relatório de conferência')]</value>
+      <webElementGuid>46a4d644-0fb4-4866-bf71-ebd554538252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outras ações'])[1]/following::a[1]</value>
+      <webElementGuid>7b19f140-803a-48ea-beb6-68cec0a98ff0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ações'])[1]/following::a[1]</value>
+      <webElementGuid>393416dc-215a-48b0-b6b2-ce903503652c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gerar relatório'])[1]/preceding::a[1]</value>
+      <webElementGuid>43da9cd0-6950-40cc-aafe-f06be156f90b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Declaração'])[1]/preceding::a[2]</value>
+      <webElementGuid>e5cdfcc1-19d6-4c21-9ee6-f55f5ea02500</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Relatório de conferência']/parent::*</value>
+      <webElementGuid>eb553d45-2cbb-4582-a1b9-b49054e3feb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li/a</value>
+      <webElementGuid>938b2cc0-ab4a-46d9-b65a-0ef29c842b09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Relatório de conferência' or . = 'Relatório de conferência')]</value>
+      <webElementGuid>406d0c8a-2dc4-4467-a714-a66cfdf03109</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

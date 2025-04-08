@@ -21,22 +21,28 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://app.sittax.com.br/login')
 
-WebUI.setText(findTestObject('Object Repository/Page_Simples/input_Usurio_usuario'), 'lucas.gontijo@sittax.com.br')
+WebUI.setText(findTestObject('Object Repository/Page_Simples/input_Usurio_usuario (4)'), 'lucas.gontijo@sittax.com.br')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Simples/input_Senha_senha'), 'Q+mFkPFOH/RZRQ478vxz1g==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Simples/input_Senha_senha (4)'), 'Q+mFkPFOH/RZRQ478vxz1g==')
 
-WebUI.sendKeys(findTestObject('Object Repository/Page_Simples/input_Senha_senha'), Keys.chord(Keys.ENTER))
+WebUI.sendKeys(findTestObject('Object Repository/Page_Simples/input_Senha_senha (4)'), Keys.chord(Keys.ENTER))
 
-WebUI.setText(findTestObject('Object Repository/Page_Simples/input_Selecione uma empresa_selectHeaderEmp_72c3ac'), 'a. f c')
+WebUI.setText(findTestObject('Object Repository/Page_Simples/input_Selecione uma empresa_selectHeaderEmp_72c3ac (4)'), '20.677.475/0001-24')
 
-WebUI.sendKeys(findTestObject('Object Repository/Page_Simples/input_Selecione uma empresa_selectHeaderEmp_72c3ac'), Keys.chord(
-        Keys.ENTER))
+WebUI.sendKeys(findTestObject('Object Repository/Page_Simples/input_Selecione uma empresa_selectHeaderEmp_72c3ac (4)'), 
+    Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/Page_Simples/div_mar2025'))
+WebUI.click(findTestObject('Object Repository/Page_Simples/div_mar2025 (4)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Simples/span_Fevereiro'))
+WebUI.click(findTestObject('Object Repository/Page_Simples/span_Janeiro (3)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Simples/a_MEI'))
+WebUI.click(findTestObject('Object Repository/Page_Simples/img_Fechar_p-0 rounded-circle (3)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Simples/a_Simples Nacional'))
+WebUI.click(findTestObject('Object Repository/Page_Simples/span_Apurao (2)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Simples/span_Gerar apurao (2)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Simples/button_Outras aes (1)'))
+
+WebUI.click(findTestObject('Object Repository/Page_Simples/a_Relatrio de conferncia (1)'))
 

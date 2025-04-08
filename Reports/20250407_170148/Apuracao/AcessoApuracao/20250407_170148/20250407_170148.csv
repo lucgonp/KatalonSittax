@@ -1,0 +1,21 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+AcessoApuracao,Chrome 135.0.7049.41,,,07-04-2025 17:01:52,07-04-2025 17:02:31,"38,767s",PASSED
+,,,,,,,
+Test Cases/TelaApuracao,Chrome 135.0.7049.41,,,07-04-2025 17:01:53,07-04-2025 17:02:31,"38,571s",PASSED
+"openBrowser("""")",Chrome 135.0.7049.41,,,07-04-2025 17:01:53,07-04-2025 17:01:55,"2,057s",PASSED
+"navigateToUrl(""https://app.sittax.com.br/login"")",Chrome 135.0.7049.41,,,07-04-2025 17:01:55,07-04-2025 17:01:56,"1,532s",PASSED
+"setText(findTestObject(""Object Repository/Page_Simples/input_Usurio_usuario (1)""), ""lucas.gontijo@sittax.com"")",Chrome 135.0.7049.41,,,07-04-2025 17:01:56,07-04-2025 17:01:57,"0,906s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Simples/input_Senha_senha (1)""), ""Q+mFkPFOH/RZRQ478vxz1g=="")",Chrome 135.0.7049.41,,,07-04-2025 17:01:57,07-04-2025 17:01:58,"0,339s",PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Simples/input_Senha_senha (1)""), Keys.chord(ENTER))",Chrome 135.0.7049.41,,,07-04-2025 17:01:58,07-04-2025 17:01:58,"0,295s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Simples/input_Senha_senha (1)""), ""Q+mFkPFOH/RZRQ478vxz1g=="")",Chrome 135.0.7049.41,,,07-04-2025 17:01:58,07-04-2025 17:01:59,"0,849s",PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Simples/input_Senha_senha (1)""), Keys.chord(ENTER))",Chrome 135.0.7049.41,,,07-04-2025 17:01:59,07-04-2025 17:01:59,"0,274s",PASSED
+"setText(findTestObject(""Object Repository/Page_Simples/input_Usurio_usuario (1)""), ""lucas.gontijo@sittax.com.br"")",Chrome 135.0.7049.41,,,07-04-2025 17:01:59,07-04-2025 17:02:00,"0,816s",PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Simples/input_Usurio_usuario (1)""), Keys.chord(ENTER))",Chrome 135.0.7049.41,,,07-04-2025 17:02:00,07-04-2025 17:02:00,"0,266s",PASSED
+"setText(findTestObject(""Object Repository/Page_Simples/input_Selecione uma empresa_selectHeaderEmp_72c3ac (1)""), ""a. f c"")",Chrome 135.0.7049.41,,,07-04-2025 17:02:00,07-04-2025 17:02:11,"10,354s",PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Simples/input_Selecione uma empresa_selectHeaderEmp_72c3ac (1)""), Keys.chord(ENTER))",Chrome 135.0.7049.41,,,07-04-2025 17:02:11,07-04-2025 17:02:11,"0,389s",PASSED
+"click(findTestObject(""Object Repository/Page_Simples/div_mar2025 (1)""))",Chrome 135.0.7049.41,,,07-04-2025 17:02:11,07-04-2025 17:02:15,"4,480s",PASSED
+"click(findTestObject(""Object Repository/Page_Simples/span_Janeiro""))",Chrome 135.0.7049.41,,,07-04-2025 17:02:15,07-04-2025 17:02:16,"0,484s",PASSED
+"click(findTestObject(""Object Repository/Page_Simples/img_Fechar_p-0 rounded-circle""))",Chrome 135.0.7049.41,,,07-04-2025 17:02:16,07-04-2025 17:02:27,"10,583s",PASSED
+"click(findTestObject(""Object Repository/Page_Simples/span_Apurao""))",Chrome 135.0.7049.41,,,07-04-2025 17:02:27,07-04-2025 17:02:27,"0,536s",PASSED
+"click(findTestObject(""Object Repository/Page_Simples/span_Gerar apurao""))",Chrome 135.0.7049.41,,,07-04-2025 17:02:27,07-04-2025 17:02:28,"0,528s",PASSED
+"click(findTestObject(""Object Repository/Page_Simples/button_OK""))",Chrome 135.0.7049.41,,,07-04-2025 17:02:28,07-04-2025 17:02:31,"3,642s",PASSED

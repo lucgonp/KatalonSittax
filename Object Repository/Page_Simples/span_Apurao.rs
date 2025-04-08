@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Apurao</name>
+   <tag></tag>
+   <elementGuidId>f5e7a16a-80a3-479c-9c6f-c6bb0275b3ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Documentos Fiscais'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Apuração&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dba3f324-37c0-4d28-b7ee-e9a23e56fb14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apuração</value>
+      <webElementGuid>0d58db67-7e7b-45c2-993b-72a8051a0830</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;dx-device-desktop dx-device-generic ng-tns-0-1&quot;]/app-root[@class=&quot;layout-fixed&quot;]/app-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;wrapper&quot;]/app-sidebar[@class=&quot;aside-container&quot;]/div[@class=&quot;aside-inner&quot;]/nav[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-nav&quot;]/li[@class=&quot;ng-star-inserted&quot;]/a[@class=&quot;ng-star-inserted&quot;]/span[1]</value>
+      <webElementGuid>a832130b-d860-4594-8917-abbca438eda5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documentos Fiscais'])[1]/following::span[1]</value>
+      <webElementGuid>d5637af4-2490-45e5-bca2-167cf1214924</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Importação'])[2]/following::span[2]</value>
+      <webElementGuid>60f93002-741f-413d-bc56-7353ebad0c71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apuração'])[2]/preceding::span[1]</value>
+      <webElementGuid>8453c3a8-dd2c-4e0c-8de6-51d3c336b6c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gerar apuração'])[1]/preceding::span[1]</value>
+      <webElementGuid>adf8b9f7-f256-4629-be15-13405f2b8a1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apuração']/parent::*</value>
+      <webElementGuid>3297b643-7ae5-4267-871f-c110066dc89a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a/span</value>
+      <webElementGuid>3c852ae0-ad32-4799-bfaa-2a977f3d3156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Apuração' or . = 'Apuração')]</value>
+      <webElementGuid>b2441fed-4b63-4ca0-80d7-ad6bc931e995</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

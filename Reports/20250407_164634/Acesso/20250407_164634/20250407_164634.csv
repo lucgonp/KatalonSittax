@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Acesso,Chrome 135.0.7049.41,,,07-04-2025 16:46:36,07-04-2025 16:47:13,"36,495s",PASSED
+,,,,,,,
+Test Cases/Login Test,Chrome 135.0.7049.41,,,07-04-2025 16:46:36,07-04-2025 16:47:13,"36,296s",PASSED
+"openBrowser("""")",Chrome 135.0.7049.41,,,07-04-2025 16:46:37,07-04-2025 16:46:39,"2,098s",PASSED
+"navigateToUrl(""https://app.sittax.com.br/login"")",Chrome 135.0.7049.41,,,07-04-2025 16:46:39,07-04-2025 16:46:40,"1,549s",PASSED
+"setText(findTestObject(""Object Repository/Page_Simples/input_Usurio_usuario""), ""lucas.gontijo@sittax.com.br"")",Chrome 135.0.7049.41,,,07-04-2025 16:46:40,07-04-2025 16:46:41,"0,916s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Simples/input_Senha_senha""), ""Q+mFkPFOH/RZRQ478vxz1g=="")",Chrome 135.0.7049.41,,,07-04-2025 16:46:41,07-04-2025 16:46:42,"0,340s",PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Simples/input_Senha_senha""), Keys.chord(ENTER))",Chrome 135.0.7049.41,,,07-04-2025 16:46:42,07-04-2025 16:46:42,"0,283s",PASSED
+"setText(findTestObject(""Object Repository/Page_Simples/input_Selecione uma empresa_selectHeaderEmp_72c3ac""), ""a. f c"")",Chrome 135.0.7049.41,,,07-04-2025 16:46:42,07-04-2025 16:46:54,"11,755s",PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Simples/input_Selecione uma empresa_selectHeaderEmp_72c3ac""), Keys.chord(ENTER))",Chrome 135.0.7049.41,,,07-04-2025 16:46:54,07-04-2025 16:46:54,"0,450s",PASSED
+"click(findTestObject(""Object Repository/Page_Simples/div_mar2025""))",Chrome 135.0.7049.41,,,07-04-2025 16:46:54,07-04-2025 16:46:59,"4,482s",PASSED
+"click(findTestObject(""Object Repository/Page_Simples/span_Fevereiro""))",Chrome 135.0.7049.41,,,07-04-2025 16:46:59,07-04-2025 16:46:59,"0,481s",PASSED
+"click(findTestObject(""Object Repository/Page_Simples/a_MEI""))",Chrome 135.0.7049.41,,,07-04-2025 16:46:59,07-04-2025 16:47:10,"10,809s",PASSED
+"click(findTestObject(""Object Repository/Page_Simples/a_Simples Nacional""))",Chrome 135.0.7049.41,,,07-04-2025 16:47:10,07-04-2025 16:47:13,"2,883s",PASSED

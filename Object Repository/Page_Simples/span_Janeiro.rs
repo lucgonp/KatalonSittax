@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Janeiro</name>
+   <tag></tag>
+   <elementGuidId>67b23701-5ce9-4405-9c11-7029c26d25f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='›'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.ng-star-inserted.is-highlighted > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Janeiro&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>75090b8d-f142-4560-a454-2311387808c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Janeiro</value>
+      <webElementGuid>722e707d-2cc3-4d13-a6e7-7fa179d48f34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;dx-device-desktop dx-device-generic ng-tns-0-1&quot;]/bs-datepicker-container[@class=&quot;bottom ng-tns-c3649951909-4 ng-star-inserted&quot;]/div[@class=&quot;bs-datepicker ng-tns-c3649951909-4 theme-angle ng-star-inserted&quot;]/div[@class=&quot;bs-datepicker-container ng-tns-c3649951909-4 ng-trigger ng-trigger-datepickerAnimation&quot;]/div[@class=&quot;bs-calendar-container ng-tns-c3649951909-4&quot;]/div[@class=&quot;bs-media-container ng-tns-c3649951909-4 ng-star-inserted&quot;]/bs-month-calendar-view[@class=&quot;ng-tns-c3649951909-4 ng-star-inserted&quot;]/bs-calendar-layout[1]/div[@class=&quot;bs-datepicker-body&quot;]/table[@class=&quot;months&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;ng-star-inserted is-highlighted&quot;]/span[1]</value>
+      <webElementGuid>eed2366e-2ac5-4708-959d-4fd67f910844</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='›'])[1]/following::span[1]</value>
+      <webElementGuid>15603bbf-2d00-4e14-a69f-a66067aaabf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='‹'])[1]/following::span[3]</value>
+      <webElementGuid>828572b6-bd8d-485e-aecd-71c7fa3051f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fevereiro'])[1]/preceding::span[1]</value>
+      <webElementGuid>e4072003-37dd-4b39-a096-a048eb74bf64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Março'])[1]/preceding::span[2]</value>
+      <webElementGuid>35eebbe7-159d-4269-b52d-a4088d8f1c88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Janeiro']/parent::*</value>
+      <webElementGuid>53abc9fc-90d9-49cd-b01b-930fcf017f02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//bs-calendar-layout/div[2]/table/tbody/tr/td/span</value>
+      <webElementGuid>406a8fba-c453-4a62-bdc0-2c4989a09da2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Janeiro' or . = 'Janeiro')]</value>
+      <webElementGuid>39d41c5e-6761-44f9-a5b4-f1bfee3c9cd4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
